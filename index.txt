@@ -1,2 +1,4 @@
-coba git dan github
+coba github
 edit pertama
+ok
+hapus git dan tambah ok
